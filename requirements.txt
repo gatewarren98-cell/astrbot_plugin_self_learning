@@ -1,4 +1,4 @@
-aiohttp==3.12.15
+aiohttp>=3.12.15
 emoji==2.14.1
 hypercorn==0.17.3
 jieba==0.42.1
